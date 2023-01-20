@@ -4138,3 +4138,114 @@
 0:00 004 Eternal Solata - Relaxing Place
 3:19 414 Brian Dunning, Jeff Johnson - December Rain
 6:12 037 Quest For Glory - Overture
+7:58 123 F.E.A.R 2 - School Suspense
+11:21 073 Everquest 2 - Freeport Sewers
+13:21 268 The Grudge - Ju On VII
+
+#640
+6:07 096 Silent Hill 2 - White Noiz
+7:33 097 Silent Hill 2 - Heaven's Night
+9:55 068 Magna Carta 2 - Spirit World
+11:48 261 Alan Wake - Waking Up to a Nightmare
+14:04 099 Star Ocean The Last Hope - Welcome to the Darkness
+17:23 169 World of Warcraft The Burning Crusade - Wastelands
+
+#641
+1:31 017 F.E.A.R. 2 - Alma's Music Box
+2:22 194 Braid - The Darkening Ground
+5:25 100 Neverwinter Nights - The Silver Marches
+6:57 072 Star Ocean The Last Hope - Dark Heart, Dark Mind
+9:48 172 Silent Hill 2 - The Darkness That Lurks In Our Mind
+11:06 005 Baldur's Gate - Down to the Sewers
+14:11 095 Half Life 2 - Dark Interval
+15:46 176 Lufia 2 - Four Gods
+18:16 285 Donnie Darko - Waltz in the 4th Dimension
+
+#642
+1:00 282 Dungeon Keeper - Ghostly Waterways
+5:49 263 Dungeon Keeper - Down Deep
+11:17 084 Silent Hill 3 - A Stray Child
+16:48 284 The Grudge - Ju On V
+18:22 266 Alan Silvestri - Bud's Big Dive
+
+#643
+3:58 270 Dungeon Keeper - Mystic Tunnels
+8:36 259 Sleepy Hollow - Sweet Dreams
+9:45 320 Rymdlego - I Realize
+10:15 259 Sleepy Hollow - Sweet Dreams
+11:27 167 Magna Carta 2 - With You
+13:55 408 Ultima IX Ascension - Stones
+15:49 148 The City of Prague Philharmonic Orchestra - Barry Lyndon Sarabande
+20:00 155 Orchestral Game Concert 3 - God's People
+24:37 154 The Secret of Monkey Island Special Edition - Opening
+26:14 415 Trevor Jones - Igraynes Dance
+28:19 228 Quest for Glory V - Silmarian Meanderings
+33:00 031 Monkey Island - LeChuck's Theme Crazy Pirate Jig
+
+#644
+0:00 055 Star Ocean The Last Hope - Innocence (Cheerful Remix)
+2:47 154 The Secret of Monkey Island Special Edition - Opening
+4:22 219 OC ReMix - The Legend of Zelda The Wind Waker Ancient Hero
+8:51 432 Ultima IX Ascension - Britain Positive
+10:45 085 Star Ocean The Last Hope - Good Morning, Miss Vineyard
+12:19 247
+14:11 213 LaLa - Auf Wiedersehen Monty
+20:32 159 The Quick And The Dead - End Credits
+24:10 036 Shoujo Kakumei Utena - Jikai Yokoku
+24:43 043 World Of Warcraft - Elwynn Forest
+
+#645
+0:00 092 Dragon Age Origins - Leliannas Song
+2:39 181 Magna Carta 2 - A New Beginning
+3:28 208 Alan Silvestri - Resurrection
+5:30 054 Braid - Downstream
+12:05 177 Orchestral Game Concert 2 - Final Fantasy V Opening Theme
+16:45 411 The Sims Medieval - Quest Theme
+19:21 213 LaLa - Auf Wiedersehen Monty
+
+#646
+4:54 046 Sea Shanties - Spanish Ladies
+7:10 185 The Legend of Zelda Twilight Princess - Staff Credits
+14:00 416 The Sims Medieval - Mirthful Steps
+15:21 201 Leisure Suit Larry 7 - Theme Song
+18:59 408 Ultima IX Ascension - Stones
+
+#647
+0:08 153 The Legend of Zelda Twilight Princess - Ilia's Theme
+0:16 250 The Elder Scrolls III Morrowind - Blessing of Vivec
+3:32 203 Les Copeland - Song For Ry
+6:30 414 Brian Dunning, Jeff Johnson - December Rain
+9:21 213 LaLa - Auf Wiedersehen Monty
+10:18 245 Lands of Lore 2 - City of the Ancients
+13:11 134 Sonic The Hedgehog - Is It Right
+14:22 206 kLuTz - Chrono Trigger Town Life in Piano OC ReMix
+17:12 439 StarCraft - First Contact
+19:08 124 Corpse Bride - End Credits Pt. 1
+
+#648
+1:07 237 Donnie Darko - Gretchen Ross
+1:58 108 Final Fantasy XIV - Born of the Boughs
+7:30 124 Corpse Bride - End Credits Pt. 1
+9:20 208 Alan Silvestri - Resurrection
+11:19 045 Elfen Lied - Hanayou
+12:27 255 Quest for Glory V - Frolic at Gnome Ann's Land Inn
+14:54 225 The Elder Scroll III Morrowind - Silt Sunrise
+18:06 151 World of Warcraft The Burning Crusade - Silvermoon City
+
+#649
+0:06 215 Ensemble Vivant - Greensleeves
+5:23 158 Orchestral Game Concert 1 - Super Mario World
+7:48 256
+9:40 129 Star Ocean The Last Hope - Ruin and Creation (Monologue Mix)
+13:37 140 Orchestral Game Concert 3 - Because I Love You
+16:48 227 Giants Citizen Kabuto - Baz's Adagio
+18:30 429 The Secret of Monkey Island Special Edition - Closing Themes
+
+#650
+0:26 177 Orchestral Game Concert 2 - Final Fantasy V Opening Theme
+5:08 435 Carlos Nunez - Saint Patricks an Dro
+7:52 202 Conan The Destroyer - Valeria Remembered
+10:59 251 Marc Teichert - Eternity
+12:46 258 Marc Teichert - Anna's Theme
+14:38 092 Dragon Age Origins - Leliannas Song
+17:11 231 The Elder Scrolls III Morrowind - Peaceful Waters
