@@ -1,4 +1,4 @@
-body{
+html {
 	background-color: #181a1b;
 }
 * {
@@ -6,4 +6,7 @@ body{
 }
 a {
 	color: #2994ff;
+}
+a:visited {
+	color: #9580ff;
 }
