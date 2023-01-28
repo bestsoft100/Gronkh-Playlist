@@ -140,6 +140,7 @@
 246
 247
 253
+286
 292
 408 Ultima IX Ascension - Stones
 410 Chris Holm - The Last Ninja 1 (Wastelands)
@@ -183,6 +184,61 @@
 487 Alan Wake - Welcome to Bright Falls
 488 Myth 2 - Epilogue
 490 Aion The Tower Of Eternity - The Tower Of Eternity
+491 Leisure Suit Larry - The Casino
+492 Medal of Honor 2010 - Heroes Aboard
+493 Monkey Island 4 - Lucre Town
+494 Mafia 2 - Prologue
+496 Das Schwarze Auge Satinavs Ketten - Die Blutzinnen
+497 Monkey Island 4 - Lucre Island Map
+498 Gothic 4 - The Swamplands
+499 Monkey Island 3 - Wally Crying
+500 Monkey Island 2 - Woodtick Revisited
+501 Die Siedler 2 - Credits
+502 Alan Wake - A Writers Dream
+503 Mafia 2 - Main Theme
+504 Monkey Island 4 - Monkey Island Beach Canyon
+505 Kingdom Hearts 2 - Laughter and Merriment
+506 Aion The Tower of Eternity - Forgotten Sorrow (Korean Version)
+507 Darksiders - Uriel
+508 Kingdom Hearts 2 - Roxas
+509 Leisure Suit Larry - Honeymoon Suite
+510 Mafia 2 - Bad Memories
+511 Gothic 4 - The Valley of Blood
+512 Day of the Tentacle - Hotel Exteriors Present
+513 Darksiders - Flight over Ruined Eden
+514 Monkey Island 4 - Diving Competition
+515 Kingdom Hearts 2 - Friends in my Heart
+516 Die Siedler 2 - Rome 3
+518 Plants vs Zombies - Watery Graves (Slow)
+519 Gothic 2 - Nature 2 Theme
+520 Gothic 4 - The Tavern
+522 Monkey Island 3 - Mocking the Voodoo Lady & Voodoo Jazz
+523 Kingdom Hearts 2 - Isnt It Lovely
+524 Fable - Bowerstone
+525 Aion The Tower Of Eternity - Step to The Next World
+526 Die Siedler 2 - Rome 4
+527 Monkey Island 2 - Captain Kates Boat Booty Island
+528 Fable The Lost Chapters - Lookout Point
+529 Monkey Island 3 - Blood Island Beach
+530 Mafia 2 - For Better, For Worse
+531 Gothic 4 - Tooshoo
+532 Gothic 1 - Title Theme
+533 Aion The Tower of Eternity - A Fairy Of The Peace
+534 Day of the Tentacle - Hotel Interiors Present
+535 Gothic 4 - Zyra's Theme
+536 Aion the Tower of Eternity - Blue Forest
+537 Loom - Main Theme (2)
+538 Day of the Tentacle - Epilogue
+539 Gothic 4 - Arrival in Feshyr
+540 Kingdom Hearts 2 - Missing You
+541 Gothic 2 - Gothic Piano
+542 Aion the Tower of Eternity - Heavens Gate
+543 Kingdom Hearts 2 - Organization XIII
+544 Gothic 2 - Nature 1 Theme
+545 Leisure Suit Larry 6 - La Costa Cotte
+495
+517
+521
 
 #Medieval
 047 Baldur's Gate 2 - Taverns
