@@ -5674,3 +5674,179 @@
 1:14:01 531 Gothic 4 - Tooshoo
 1:15:56 243 Quest For Glory V - Dance of Mystery and Intrigue
 1:18:19 164 Shoujo Kakumei Utena - Kokoro no DICE
+
+#801
+0:00 534 Day of the Tentacle - Hotel Interiors Present
+2:16 023 Bioshock 2 - How She Sees The World
+5:02 505 Kingdom Hearts 2 - Laughter and Merriment
+5:48 512 Day of the Tentacle - Hotel Exteriors Present
+7:14 287 Elfen Lied - Rin'ne
+8:30 132 Magna Carta 2 - Cota Mare
+11:08 023 Bioshock 2 - How She Sees The World
+13:55 183 EverQuest 2 - Character Creation
+17:27 023 Bioshock 2 - How She Sees The World
+
+#802
+0:28 418 OC ReMix - Super Mario Bros Dancehall Ragga
+3:02 537 Loom - Main Theme (2)
+5:29 160 EverQuest 2 - Freeport
+9:13 237 Donnie Darko - Gretchen Ross
+10:05 293 EverQuest 2 - Fallen Gate
+12:45 477 Baldur's Gate 2 - City Gates
+14:07 524 Fable - Bowerstone
+18:43 493 Monkey Island 4 - Lucre Town
+
+#803
+1:23 590 Monkey Island 2 - Wow, What a Dream! The Bone Song
+4:50 243 Quest For Glory V - Dance of Mystery and Intrigue
+7:13 513 Darksiders - Flight over Ruined Eden
+9:02 052 Corpse Bride - Victor's Piano Solo
+10:20 163 Orchestral Game Concert 2 - Sorrow
+14:42 446 A New Beginning - Bent's Melancholy
+15:45 440 Celtic Odyssey - The Calliope House
+
+#804
+0:37 535 Gothic 4 - Zyra's Theme
+3:14 120 Fable 3 - The Dwellers
+7:34 534 Day of the Tentacle - Hotel Interiors Present
+9:49 183 EverQuest 2 - Character Creation
+13:20 526 Die Siedler 2 - Rome 4
+15:20 049 Halo Reach OST - Epilogue
+19:51 552 Aion The Tower of Eternity - Kingdom of Light
+
+#805
+0:00 556 Plants vs Zombies - Grasswalk
+2:30 531 Gothic 4 - Tooshoo
+4:25 243 Quest For Glory V - Dance of Mystery and Intrigue
+6:47 162 Alan Wake - The Night It All Began
+8:50 200 OC ReMix - Final Fantasy 7 Jenova for Classical Piano
+15:54 058 Final Fantasy XIV - Twilight Over Thanalan
+20:15 529 Monkey Island 3 - Blood Island Beach
+23:40 504 Monkey Island 4 - Monkey Island Beach Canyon
+24:58 065 Magna Carta 2 - Theme of Zephie (Piano Version)
+27:43 497 Monkey Island 4 - Lucre Island Map
+
+#806
+0:56 071 Fable 3 - Music Box
+1:38 032 Arthur Rubinstein - Frederic Chopin Nocturnes Op 48 No 2 in F-Sharp Minor
+9:08 132 Magna Carta 2 - Cota Mare
+11:46 287 Elfen Lied - Rin'ne
+13:03 044 Bioshock 2 - Pairbond
+15:35 591 Das Schwarze Auge Satinavs Ketten - Enqui
+18:08 259 Sleepy Hollow - Sweet Dreams
+19:17 413 Elena Polanska; La Camerata - Istampia Ghaetta
+20:27 436 Gnomusy - Dance of the Mist
+22:55 478 Fable The Lost Chapters - Oakvale
+26:22 161 Silent Hill 4 - Resting Comfortably
+27:12 124 Corpse Bride - End Credits Pt. 1
+29:02 207 OC ReMix - Secret of Mana Return to Elysian Lands
+
+#807
+4:13 591 Das Schwarze Auge Satinavs Ketten - Enqui
+6:43 560 Deadspace 2 - Canonical Aside
+8:39 493 Monkey Island 4 - Lucre Town
+10:43 420 Dubmood - Sektor 2A
+10:56 274 Sin City - Nancy
+12:30 480 Prototype - The Last Man
+15:10 460 Alice Madness Returns - Hyde Park
+15:53 072 Star Ocean The Last Hope - Dark Heart, Dark Mind
+18:43 096 Silent Hill 2 - White Noiz
+20:09 101 Everquest 2 - Everfrost
+23:20 191 American McGee's Alice - I'm Not Edible
+28:27 267 The Grudge - Ju On III
+
+#808
+1:25 076 Metro 2033 - Haunted Tunnels
+3:32 592 Gothic 4 - Winds from the Depths
+4:57 473 Quest For Glory V - The Rite of Peace
+8:38 587 Prototype - Alex Awakes
+10:53 593 Aion The Tower of Eternity - Magma & Beast
+14:05 005 Baldur's Gate - Down to the Sewers
+17:11 466 Aion The Tower Of Eternity - Voices from the Ruins
+21:46 072 Star Ocean The Last Hope - Dark Heart, Dark Mind
+24:36 471 Alice Madness Returns - Radcliffe's Fate
+25:35 260 Alan Silvestri - The Pseudopod
+31:10 005 Baldur's Gate - Down to the Sewers
+
+#809
+0:00 471 Alice Madness Returns - Radcliffe's Fate
+0:58 480 Prototype - The Last Man
+3:38 594 Deadspace 2 - It Had To Be Unitology
+9:00 282 Dungeon Keeper - Ghostly Waterways
+13:45 595 Dante's Inferno - Hoarder
+14:09 534 Day of the Tentacle - Hotel Interiors Present
+16:25 591 Das Schwarze Auge Satinavs Ketten - Enqui
+18:55 513 Darksiders - Flight over Ruined Eden
+
+#810
+0:10 507 Darksiders - Uriel
+1:27 537 Loom - Main Theme (2)
+3:54 210 OC ReMix - Secret of Mana Cry from the Forest
+6:23 107 Sonic The Hedgehog - Running Through the Plains
+8:06 488 Myth 2 - Epilogue
+12:32 294 Ultima IX Ascension - Moonglow
+14:40 488 Myth 2 - Epilogue
+19:07 290 Dungeon Keeper - Soft Flute
+
+#811
+4:03 539 Gothic 4 - Arrival in Feshyr
+6:02 208 Alan Silvestri - Resurrection
+8:01 596 Epic Mickey - Dark Beauty Castle
+11:56 120 Fable 3 - The Dwellers
+16:15 204 MayBeBop - Wizardry
+17:21 280 Marc Teichert - A Moment of Twilight
+18:27 203 Les Copeland - Song For Ry
+
+#812
+1:30 553 Harveys Neue Augen - Devil's New Tambourine
+4:21 198 The Legend of Zelda Twilight Princess - Orchestra Piece 1
+6:32 526 Die Siedler 2 - Rome 4
+8:33 551 Kingdom Hearts 2 - The Afternoon Street
+10:11 425 Ultima IX Ascension - Paws
+12:04 546 Gothic 4 - The Paths of the Ancients
+13:06 237 Donnie Darko - Gretchen Ross
+13:59 320 Rymdlego - I Realize
+17:57 197 Star Ocean The Last Hope - Skyward Bound
+
+#813
+2:25 202 Conan The Destroyer - Valeria Remembered
+5:30 504 Monkey Island 4 - Monkey Island Beach Canyon
+6:46 493 Monkey Island 4 - Lucre Town
+8:51 161 Silent Hill 4 - Resting Comfortably
+9:40 215 Ensemble Vivant - Greensleeves
+14:56 160 EverQuest 2 - Freeport
+18:40 056 Magna Carta 2 - Highwind Island
+
+#814
+0:50 494 Mafia 2 - Prologue
+4:13 214 Klaus Weiland - Das Loch In Der Banane
+8:04 511 Gothic 4 - The Valley of Blood
+10:07 528 Fable The Lost Chapters - Lookout Point
+14:10 502 Alan Wake - A Writers Dream
+16:05 444 Michal Hromek - Second Two O Carolan´s Pieces
+
+#815
+0:00 212 Dubmood - Sektor 1D
+0:08 539 Gothic 4 - Arrival in Feshyr
+2:05 204 MayBeBop - Wizardry
+3:12 568 Legend of Kyrandia (FM Towns) - Brandon's Home
+5:57 088 World Of Warcraft Wrath of the Lich King - Howling Fjord
+8:55 449 Deponia - Ein bisschen mehr Enthusiasmus
+11:23 437 Record of Lodoss War - Elven Flute
+12:51 204 MayBeBop - Wizardry
+14:00 492 Medal of Honor 2010 - Heroes Aboard
+19:07 232 Chobits - Touchy Subject
+21:11 216 Mozart - Concerto for Flute & Harp in C Major, K.299 II Andantino
+27:40 289
+31:29 424 Sabrepulse - A Girl I Know
+32:48 058 Final Fantasy XIV - Twilight Over Thanalan
+37:10 539 Gothic 4 - Arrival in Feshyr
+39:07 215 Ensemble Vivant - Greensleeves
+44:23 513 Darksiders - Flight over Ruined Eden
+46:12 591 Das Schwarze Auge Satinavs Ketten - Enqui
+48:42 202 Conan The Destroyer - Valeria Remembered
+51:48 207 OC ReMix - Secret of Mana Return to Elysian Lands
+56:45 511 Gothic 4 - The Valley of Blood
+58:49 557 Legend of Kyrandia 2 (FM Towns) - Faun's Theme
+59:18 413 Elena Polanska; La Camerata - Istampia Ghaetta
+1:00:29 243 Quest For Glory V - Dance of Mystery and Intrigue

@@ -239,6 +239,31 @@
 495
 517
 521
+546 Gothic 4 - The Paths of the Ancients
+547 Aion The Tower of Eternity - Dark's Innocence
+551 Kingdom Hearts 2 - The Afternoon Street
+552 Aion The Tower of Eternity - Kingdom of Light
+553 Harveys Neue Augen - Devil's New Tambourine
+554 Day of the Tentacle - Ned & Jed Edison
+555 Gothic 4 - Credits
+556 Plants vs Zombies - Grasswalk
+557 Legend of Kyrandia 2 (FM Towns) - Faun's Theme
+558 Orchestral Game Concert 3 - Divertissiment, the Fourth Movement
+559 Aion The Tower of Eternity - Song of Moonlight
+560 Deadspace 2 - Canonical Aside
+562 Legend of Kyrandia 2 (FM Towns) - Floundering Fishermen
+563 Gothic 4 - The Nameless Hero
+564 The Secret of Monkey Island Special Edition - The Journey
+565 Alan Wake - Vacation
+566 Monkey Island 4 - Scumm Bar (Main)
+567 Mafia 2 - Empire Bay
+568 Legend of Kyrandia (FM Towns) - Brandon's Home
+570 Das Schwarze Auge Satinavs Ketten - Die Reise
+571 Kingdom Hearts 2 - Lazy Afternooons
+588 Legend of Kyrandia (FM Towns) - Darm and Brandywine
+590 Monkey Island 2 - Wow, What a Dream! The Bone Song
+591 Das Schwarze Auge Satinavs Ketten - Enqui
+596 Epic Mickey - Dark Beauty Castle
 
 #Medieval
 047 Baldur's Gate 2 - Taverns
@@ -417,6 +442,30 @@
 483 Alice Madness Returns - Sunken Crypt
 484 ObsCure 2 - The Last Ones
 489 Aion The Tower Of Eternity - Death Waltz
+548 ObsCure 2 - Hearing Fairies
+549 BioShock 2 - Ten Years Later
+550 Alice Madness Returns - Dollhouses
+572 Alice Madness Returns - Jack Splatter
+573 BioShock 2 - That Symbol On Your Hand
+574 Darksiders - Strange Moment
+575 Epic Mickey - Lonesome Manor
+576 Monkey Island 4 - First Church of LeChuck... Orthodox
+577 Dante's Inferno - Waster
+578 Deadspace 2 - Fear of Flying
+579 Dante's Inferno - Ciacco the Pig
+580 Monkey Island 3 - Goodsoup Family Crypt
+581 Prototype - Alex Theme
+582 Gothic 2 - The Monastery Underground
+583 Fable The Lost Chapters - Graveyard
+584 Dante's Inferno - Above Acheron
+585 Mass Effect 2 - What The Future Holds
+586 Mafia 2 - The Mysterious Mr. Wong
+587 Prototype - Alex Awakes
+589 Dante's Inferno - Dies Irae
+592 Gothic 4 - Winds from the Depths
+593 Aion The Tower of Eternity - Magma & Beast
+594 Deadspace 2 - It Had To Be Unitology
+595 Dante's Inferno - Hoarder
 
 #Kampf
 035 Doom - At Doom's Gate
@@ -443,6 +492,7 @@
 314
 386 Secret_of_Monkey_Island_Pirate_Shout_OC_ReMix
 387 Chrono_Trigger_Atonement_OC_ReMix
+569 Boots Randolph - Yakety Sax
 
 #8-Bit
 241 Wiklund - Dunk Brothers
