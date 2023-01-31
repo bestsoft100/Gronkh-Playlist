@@ -5339,7 +5339,7 @@
 19:11 152 Telemann Concerto In A Major For Two Violins In Scordatura And Continuo - Aria
 
 #769
-2:07 561
+2:07 452 Das Schwarze Auge Satinavs Ketten - Folge Dem Fluss
 3:33 168 Sonic The Hedgehog - The Soleanna Festival
 4:32 440 Celtic Odyssey - The Calliope House
 8:33 157 Star Ocean The Last Hope - Whistle on the Wind (Solo I)
@@ -5493,3 +5493,184 @@
 
 #785
 1:57 207 OC ReMix - Secret of Mana Return to Elysian Lands
+6:55 571 Kingdom Hearts 2 - Lazy Afternooons
+8:37 568 Legend of Kyrandia (FM Towns) - Brandon's Home
+11:21 088 World Of Warcraft Wrath of the Lich King - Howling Fjord
+14:20 432 Ultima IX Ascension - Britain Positive
+16:14 508 Kingdom Hearts 2 - Roxas
+17:33 452 Das Schwarze Auge Satinavs Ketten - Folge Dem Fluss
+18:58 424 Sabrepulse - A Girl I Know
+
+#786
+3:23 089 Star Ocean The Last Hope - Whistle on the Wind (Tearful Mix)
+6:03 206 OC ReMix - Chrono Trigger Town Life in Piano
+9:00 318 Portal - Taste of Blood
+11:59 209 The Great Giana Sisters - Menu Theme
+14:32 445 Edna Bricht Aus - Im Flur
+17:55 509 Leisure Suit Larry - Honeymoon Suite
+20:13 120 Fable 3 - The Dwellers
+
+#787
+4:14 056 Magna Carta 2 - Highwind Island
+6:25 281 Ultima IX Ascension - Terfin
+8:03 537 Loom - Main Theme (2)
+10:31 551 Kingdom Hearts 2 - The Afternoon Street
+12:10 289
+16:10 259 Sleepy Hollow - Sweet Dreams
+17:20 505 Kingdom Hearts 2 - Laughter and Merriment
+18:26 010 Phantasy Star Online - Can Still See The Light (Piano Version)
+
+#788
+1:20 221 Spirit of Armakuni - The Dragon Door
+5:51 434 The Sims Medieval - The Dashing Young Falconer
+7:56 524 Fable - Bowerstone
+12:31 131 Elfen Lied - Shinkai
+15:27 290 Dungeon Keeper - Soft Flute
+
+#789
+0:43 453 Das Schwarze Auge Satinavs Ketten - In Die Höhlen
+2:16 449 Deponia - Ein bisschen mehr Enthusiasmus
+4:44 537 Loom - Main Theme (2)
+7:12 318 Portal - Taste of Blood
+10:19 292
+12:43 189 Edward Scissorhands - Introduction
+15:13 281 Ultima IX Ascension - Terfin
+16:51 280 Marc Teichert - A Moment of Twilight
+17:59 432 Ultima IX Ascension - Britain Positive
+
+#790
+0:00 152 Telemann Concerto In A Major For Two Violins In Scordatura And Continuo - Aria
+0:28 124 Corpse Bride - End Credits Pt. 1
+2:19 511 Gothic 4 - The Valley of Blood
+4:19 454 Die Siedler 2 - Rome 2
+6:34 250 The Elder Scrolls III Morrowind - Blessing of Vivec
+9:50 449 Deponia - Ein bisschen mehr Enthusiasmus
+12:19 137 Fable 3 - A Hero Awakes
+14:40 158 Orchestral Game Concert 1 - Super Mario World
+17:05 203 Les Copeland - Song For Ry
+
+#791
+0:29 201 Leisure Suit Larry 7 - Theme Song
+4:06 127 Orchestral Game Concert 1 - Theme Of Love
+7:55 440 Celtic Odyssey - The Calliope House
+9:41 489 Aion The Tower Of Eternity - Death Waltz
+12:30 261 Alan Wake - Waking Up to a Nightmare
+14:40 271 Silent Hill 4 - The Suicidal Clock Chime
+15:49 480 Prototype - The Last Man
+18:26 572 Alice Madness Returns - Jack Splatter
+19:05 285 Donnie Darko - Waltz in the 4th Dimension
+
+#792
+2:11 464 Monkey Island 2 - Rooms of Ugly Bone Things
+3:39 573 BioShock 2 - That Symbol On Your Hand
+5:40 277 The Grudge - Ju-On I
+11:02 574 Darksiders - Strange Moment
+12:07 172 Silent Hill 2 - The Darkness That Lurks In Our Mind
+13:23 575 Epic Mickey - Lonesome Manor
+16:37 576 Monkey Island 4 - First Church of LeChuck... Orthodox
+18:24 577 Dante's Inferno - Waster
+
+#793
+1:25 573 BioShock 2 - That Symbol On Your Hand
+3:25 098 Magna Carta 2 - Undersea Tunnel
+5:55 270 Dungeon Keeper - Mystic Tunnels
+11:00 191 American McGee's Alice - I'm Not Edible
+16:23 578 Deadspace 2 - Fear of Flying
+18:34 074 Baldur's Gate - Night Falls on Baldur's Gate
+
+#794
+1:15 103 Monkey Island Special Edition - Following the Shopkeeper
+2:40 482 Baldur's Gate 2 - Underdark
+5:42 282 Dungeon Keeper - Ghostly Waterways
+10:31 277 The Grudge - Ju-On I
+15:52 285 Donnie Darko - Waltz in the 4th Dimension
+18:38 468 Dead Space 2 - Titan Station Elementary
+
+#795
+2:35 460 Alice Madness Returns - Hyde Park
+3:17 550 Alice Madness Returns - Dollhouses
+6:18 480 Prototype - The Last Man
+8:59 072 Star Ocean The Last Hope - Dark Heart, Dark Mind
+11:49 009 Baldur's Gate 2 - The Asylum
+12:48 548 ObsCure 2 - Hearing Fairies
+17:44 017 F.E.A.R. 2 - Alma's Music Box
+18:24 579 Dante's Inferno - Ciacco the Pig
+
+#796
+0:48 176 Lufia 2 - Four Gods
+3:18 285 Donnie Darko - Waltz in the 4th Dimension
+6:03 385 Lands of Lore 2 - The Temple
+9:04 467 BioShock 2 - Lockdown March
+10:34 173 Freespace 2 - Ambience
+12:35 172 Silent Hill 2 - The Darkness That Lurks In Our Mind
+13:54 580 Monkey Island 3 - Goodsoup Family Crypt
+15:41 465 ObsCure 2 - Corruption with Rage and Melancholy
+18:34 472 Dante's Inferno - Whores of Babylon
+20:30 581 Prototype - Alex Theme
+
+#797
+1:24 464 Monkey Island 2 - Rooms of Ugly Bone Things
+2:52 550 Alice Madness Returns - Dollhouses
+5:57 483 Alice Madness Returns - Sunken Crypt
+7:19 581 Prototype - Alex Theme
+9:32 263 Dungeon Keeper - Down Deep
+14:52 572 Alice Madness Returns - Jack Splatter
+15:33 266 Alan Silvestri - Bud's Big Dive
+
+#798
+2:02 582 Gothic 2 - The Monastery Underground
+3:39 283
+5:58 017 F.E.A.R. 2 - Alma's Music Box
+6:40 489 Aion The Tower Of Eternity - Death Waltz
+9:23 115 Soul Calibur 2 - Labyrinth Of The Moonlight
+15:03 009 Baldur's Gate 2 - The Asylum
+16:01 583 Fable The Lost Chapters - Graveyard
+
+#799
+1:09 574 Darksiders - Strange Moment
+2:15 171 Max Payne 2 - Main Theme
+3:20 584 Dante's Inferno - Above Acheron
+6:47 265 Diablo 2 - Temple
+11:21 278 Quest For Glory V - The Rite of Courage
+13:14 005 Baldur's Gate - Down to the Sewers
+16:19 585 Mass Effect 2 - What The Future Holds
+19:00 076 Metro 2033 - Haunted Tunnels
+
+#800
+2:01 461 BioShock 2 - Welcome Back
+4:24 473 Quest For Glory V - The Rite of Peace
+5:19 550 Alice Madness Returns - Dollhouses
+5:58 483 Alice Madness Returns - Sunken Crypt
+7:22 586 Mafia 2 - The Mysterious Mr. Wong
+8:33 284 The Grudge - Ju On V
+10:05 009 Baldur's Gate 2 - The Asylum
+11:05 580 Monkey Island 3 - Goodsoup Family Crypt
+12:52 192 Silent Hill 2 - Null Moon
+15:46 578 Deadspace 2 - Fear of Flying
+18:18 472 Dante's Inferno - Whores of Babylon
+20:15 589 Dante's Inferno - Dies Irae
+20:50 176 Lufia 2 - Four Gods
+23:17 099 Star Ocean The Last Hope - Welcome to the Darkness
+26:32 471 Alice Madness Returns - Radcliffe's Fate
+27:30 017 F.E.A.R. 2 - Alma's Music Box
+28:11 471 Alice Madness Returns - Radcliffe's Fate
+29:08 468 Dead Space 2 - Titan Station Elementary
+32:36 587 Prototype - Alex Awakes
+34:49 172 Silent Hill 2 - The Darkness That Lurks In Our Mind
+36:08 263 Dungeon Keeper - Down Deep
+42:36 095 Half Life 2 - Dark Interval
+44:11 175 Portal - Self Esteem Fund
+45:52 565 Alan Wake - Vacation
+46:40 493 Monkey Island 4 - Lucre Town
+48:44 042 Macross Plus - MYUNG Theme
+52:00 259 Sleepy Hollow - Sweet Dreams
+53:10 588 Legend of Kyrandia (FM Towns) - Darm and Brandywine
+54:50 504 Monkey Island 4 - Monkey Island Beach Canyon
+56:08 248 Csabo of LOD - Tom Thumb Remix
+58:23 524 Fable - Bowerstone
+1:02:58 066 Elfen Lied - Heji
+1:09:26 248 Csabo of LOD - Tom Thumb Remix
+1:11:40 564 The Secret of Monkey Island Special Edition - The Journey
+1:14:01 531 Gothic 4 - Tooshoo
+1:15:56 243 Quest For Glory V - Dance of Mystery and Intrigue
+1:18:19 164 Shoujo Kakumei Utena - Kokoro no DICE
