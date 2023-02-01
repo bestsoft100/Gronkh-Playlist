@@ -5850,3 +5850,118 @@
 58:49 557 Legend of Kyrandia 2 (FM Towns) - Faun's Theme
 59:18 413 Elena Polanska; La Camerata - Istampia Ghaetta
 1:00:29 243 Quest For Glory V - Dance of Mystery and Intrigue
+
+#816
+0:00 198 The Legend of Zelda Twilight Princess - Orchestra Piece 1
+2:14 553 Harveys Neue Augen - Devil's New Tambourine
+5:06 490 Aion The Tower Of Eternity - The Tower Of Eternity
+5:09 485 Darksiders - Eden
+7:13 010 Phantasy Star Online - Can Still See The Light (Piano Version)
+9:45 122 Elfen Lied - Lilium (Violin Version)
+11:34 211 Meridian 59 - Track 10
+14:30 122 Elfen Lied - Lilium (Violin Version)
+14:35 281 Ultima IX Ascension - Terfin
+16:12 522 Monkey Island 3 - Mocking the Voodoo Lady & Voodoo Jazz
+18:23 199 Silent Hill 2 - Laura Plays The Piano
+20:21 447 A New Beginning - A Melancholy Return
+21:23 538 Day of the Tentacle - Epilogue
+23:37 503 Mafia 2 - Main Theme
+27:40 125 Orchestral Game Concert 3 - Fear of the Angels
+30:48 161 Silent Hill 4 - Resting Comfortably
+31:41 494 Mafia 2 - Prologue
+
+#817
+0:00 494 Mafia 2 - Prologue
+3:27 432 Ultima IX Ascension - Britain Positive
+5:22 516 Die Siedler 2 - Rome 3
+7:33 505 Kingdom Hearts 2 - Laughter and Merriment
+8:40 509 Leisure Suit Larry - Honeymoon Suite
+11:01 032 Arthur Rubinstein - Frederic Chopin Nocturnes Op 48 No 2 in F-Sharp Minor
+18:30 066 Elfen Lied - Heji
+
+#818
+0:00 478 Fable The Lost Chapters - Oakvale
+3:26 486 Red Dead Redemption - Estancia
+5:30 028 Richard Clayderman - Beethoven Moonlight Sonata No. 14 in C-sharp minor, Op. 27, No. 2
+10:08 105 Sonic The Hedgehog - Never Cry, No Matter What
+11:51 411 The Sims Medieval - Quest Theme
+14:27 454 Die Siedler 2 - Rome 2
+16:41 452 Das Schwarze Auge Satinavs Ketten - Folge Dem Fluss
+18:08 532 Gothic 1 - Title Theme
+19:42 597 Gothic 4 - In The Village
+21:12 124 Corpse Bride - End Credits Pt. 1
+23:03 243 Quest For Glory V - Dance of Mystery and Intrigue
+25:24 424 Sabrepulse - A Girl I Know
+26:53 243 Quest For Glory V - Dance of Mystery and Intrigue
+
+#819
+2:21 215 Ensemble Vivant - Greensleeves
+7:37 012 Baldur's Gate - Leaving Home
+9:42 132 Magna Carta 2 - Cota Mare
+12:20 510 Mafia 2 - Bad Memories
+13:07 451 Edna Bricht Aus - Kindheit
+18:20 124 Corpse Bride - End Credits Pt. 1
+
+#820
+0:25 494 Mafia 2 - Prologue
+3:50 497 Monkey Island 4 - Lucre Island Map
+6:07 498 Gothic 4 - The Swamplands
+8:10 598 Medal of Honor - Falling Away
+10:58 519 Gothic 2 - Nature 2 Theme
+12:44 318 Portal - Taste of Blood
+15:40 212 Dubmood - Sektor 1D
+18:56 479 Kingdom Hearts 2 - Dearly Beloved
+
+#821
+0:43 536 Aion the Tower of Eternity - Blue Forest
+3:56 599 Harveys Neue Augen - Nadel & Faden (Orchesterversion)
+6:00 530 Mafia 2 - For Better, For Worse
+6:50 600 Gothic 4 - Night in the City
+8:52 437 Record of Lodoss War - Elven Flute
+10:20 510 Mafia 2 - Bad Memories
+11:08 570 Das Schwarze Auge Satinavs Ketten - Die Reise
+12:16 419 Quest For Glory V - Undersea Exploring
+14:11 510 Mafia 2 - Bad Memories
+14:58 567 Mafia 2 - Empire Bay
+16:00 010 Phantasy Star Online - Can Still See The Light (Piano Version)
+18:34 413 Elena Polanska; La Camerata - Istampia Ghaetta
+19:44 434 The Sims Medieval - The Dashing Young Falconer
+
+#822
+1:46 601 Gothic 4 - Greenlands
+3:44 559 Aion The Tower of Eternity - Song of Moonlight
+7:09 452 Das Schwarze Auge Satinavs Ketten - Folge Dem Fluss
+8:40 217 OC ReMix - Streets of Rage 2 Ending Theme (Reflecting Mix)
+12:53 488 Myth 2 - Epilogue
+17:19 212 Dubmood - Sektor 1D
+19:33 248 Csabo of LOD - Tom Thumb Remix
+21:49 602 Mafia 2 - Main Theme (Piano Version)
+23:20 208 Alan Silvestri - Resurrection
+
+#823
+0:00 091 Magna Carta 2 - Belfort
+2:05 560 Deadspace 2 - Canonical Aside
+4:02 419 Quest For Glory V - Undersea Exploring
+6:02 318 Portal - Taste of Blood
+9:03 212 Dubmood - Sektor 1D
+9:19 409 Ensemble Anonymous - Basse Danse Jouyssance Vous Donneray
+11:44 504 Monkey Island 4 - Monkey Island Beach Canyon
+13:02 545 Leisure Suit Larry 6 - La Costa Cotte
+
+#824
+0:20 543 Kingdom Hearts 2 - Organization XIII
+1:42 290 Dungeon Keeper - Soft Flute
+6:04 417 Hevia - Busindre Reel
+9:53 256
+11:47 553 Harveys Neue Augen - Devil's New Tambourine
+14:37 596 Epic Mickey - Dark Beauty Castle
+
+#825
+3:28 042 Macross Plus - MYUNG Theme
+6:42 513 Darksiders - Flight over Ruined Eden
+8:29 486 Red Dead Redemption - Estancia
+10:31 287 Elfen Lied - Rin'ne
+11:48 603 Kingdom Hearts 2 - Kairi
+12:42 566 Monkey Island 4 - Scumm Bar (Main)
+14:11 479 Kingdom Hearts 2 - Dearly Beloved
+16:32 059 DJ-Max-E - New Day Fairy Fields
