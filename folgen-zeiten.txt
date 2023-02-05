@@ -5965,3 +5965,85 @@
 12:42 566 Monkey Island 4 - Scumm Bar (Main)
 14:11 479 Kingdom Hearts 2 - Dearly Beloved
 16:32 059 DJ-Max-E - New Day Fairy Fields
+
+#826
+0:00 280 Marc Teichert - A Moment of Twilight
+1:07 221 Spirit of Armakuni - The Dragon Door
+5:40 564 The Secret of Monkey Island Special Edition - The Journey
+8:02 435 Carlos Nunez - Saint Patricks an Dro
+11:24 049 Halo Reach OST - Epilogue
+
+#827
+0:50 242 Giants Citizen Kabuto - Les Nuages
+2:39 557 Legend of Kyrandia 2 (FM Towns) - Faun's Theme
+3:10 509 Leisure Suit Larry - Honeymoon Suite
+5:29 553 Harveys Neue Augen - Devil's New Tambourine
+8:20 320 Rymdlego - I Realize
+12:18 202 Conan The Destroyer - Valeria Remembered
+
+#828
+0:50 320 Rymdlego - I Realize
+4:49 603 Kingdom Hearts 2 - Kairi
+5:45 485 Darksiders - Eden
+7:47 412 Vampire Princess Miyu - Armored Apparitions Time of Death
+9:06 557 Legend of Kyrandia 2 (FM Towns) - Faun's Theme
+9:31 213 LaLa - Auf Wiedersehen Monty
+13:10 527 Monkey Island 2 - Captain Kates Boat Booty Island
+
+#829
+3:42 221 Spirit of Armakuni - The Dragon Door
+8:14 281 Ultima IX Ascension - Terfin
+9:51 131 Elfen Lied - Shinkai
+12:49 565 Alan Wake - Vacation
+
+#830
+1:08 603 Kingdom Hearts 2 - Kairi
+2:02 215 Ensemble Vivant - Greensleeves
+7:18 164 Shoujo Kakumei Utena - Kokoro no DICE
+9:11 425 Ultima IX Ascension - Paws
+11:06 451 Edna Bricht Aus - Kindheit
+
+#831
+1:46 531 Gothic 4 - Tooshoo
+3:42 216 Mozart - Concerto for Flute & Harp in C Major, K.299 II Andantino
+10:01 565 Alan Wake - Vacation
+12:50 412 Vampire Princess Miyu - Armored Apparitions Time of Death
+14:04 547 Aion The Tower of Eternity - Dark's Innocence
+17:33 564 The Secret of Monkey Island Special Edition - The Journey
+
+#832
+0:00 497 Monkey Island 4 - Lucre Island Map
+2:17 540 Kingdom Hearts 2 - Missing You
+4:10 501 Die Siedler 2 - Credits
+4:46 280 Marc Teichert - A Moment of Twilight
+5:53 071 Fable 3 - Music Box
+6:33 411 The Sims Medieval - Quest Theme
+9:11 125 Orchestral Game Concert 3 - Fear of the Angels
+12:18 435 Carlos Nunez - Saint Patricks an Dro
+
+#833
+0:29 511 Gothic 4 - The Valley of Blood
+2:31 061 Dragon Age Origins - Humans Nobility
+3:54 512 Day of the Tentacle - Hotel Exteriors Present
+5:19 065 Magna Carta 2 - Theme of Zephie (Piano Version)
+8:04 165 Silent Hill 2 - Promise (Reprise)
+9:52 409 Ensemble Anonymous - Basse Danse Jouyssance Vous Donneray
+12:18 507 Darksiders - Uriel
+13:35 488 Myth 2 - Epilogue
+
+#834
+2:53 446 A New Beginning - Bent's Melancholy
+3:57 454 Die Siedler 2 - Rome 2
+6:12 539 Gothic 4 - Arrival in Feshyr
+7:31 485 Darksiders - Eden
+9:34 510 Mafia 2 - Bad Memories
+10:23 433 John Mock - Give Me Your Hand
+14:04 515 Kingdom Hearts 2 - Friends in my Heart
+
+#835
+0:33 525 Aion The Tower Of Eternity - Step to The Next World
+3:53 446 A New Beginning - Bent's Melancholy
+4:57 452 Das Schwarze Auge Satinavs Ketten - Folge Dem Fluss
+6:24 542 Aion the Tower of Eternity - Heavens Gate
+9:45 496 Das Schwarze Auge Satinavs Ketten - Die Blutzinnen
+11:40 451 Edna Bricht Aus - Kindheit
