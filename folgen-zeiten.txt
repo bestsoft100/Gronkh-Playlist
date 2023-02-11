@@ -6047,3 +6047,76 @@
 6:24 542 Aion the Tower of Eternity - Heavens Gate
 9:45 496 Das Schwarze Auge Satinavs Ketten - Die Blutzinnen
 11:40 451 Edna Bricht Aus - Kindheit
+
+#836
+13:05 601 Gothic 4 - Greenlands
+
+#837
+0:23 032 Arthur Rubinstein - Frederic Chopin Nocturnes Op 48 No 2 in F-Sharp Minor
+7:51 237 Donnie Darko - Gretchen Ross
+8:43 409 Ensemble Anonymous - Basse Danse Jouyssance Vous Donneray
+11:08 590 Monkey Island 2 - Wow, What a Dream! The Bone Song
+
+#838
+0:36 494 Mafia 2 - Prologue
+4:00 259 Sleepy Hollow - Sweet Dreams
+5:10 478 Fable The Lost Chapters - Oakvale
+8:36 508 Kingdom Hearts 2 - Roxas
+9:54 205 OC ReMix - Final Fantasy X Ballad of the Sea
+12:51 478 Fable The Lost Chapters - Oakvale
+
+#839
+1:48 453 Das Schwarze Auge Satinavs Ketten - In Die Höhlen
+3:16 447 A New Beginning - A Melancholy Return
+4:18 446 A New Beginning - Bent's Melancholy
+5:22 570 Das Schwarze Auge Satinavs Ketten - Die Reise
+6:30 421 Orchestral Game Concert 1 - Adventurere's Inn 3
+11:06 165 Silent Hill 2 - Promise (Reprise)
+12:51 547 Aion The Tower of Eternity - Dark's Innocence
+
+#840
+2:24 243 Quest For Glory V - Dance of Mystery and Intrigue
+4:49 598 Medal of Honor - Falling Away
+7:35 186 Ultima IX Ascension - Walking Theme
+10:40 604 Mafia 2 - Surprise Visit
+12:06 014 Metro 2033 - Guitar Song 2
+14:19 164 Shoujo Kakumei Utena - Kokoro no DICE
+
+#841
+1:55 032 Arthur Rubinstein - Frederic Chopin Nocturnes Op 48 No 2 in F-Sharp Minor
+9:23 455 Edna Bricht Aus - Spiritueller Walzer
+12:25 189 Edward Scissorhands - Introduction
+
+#842
+0:14 132 Magna Carta 2 - Cota Mare
+2:51 451 Edna Bricht Aus - Kindheit
+8:04 455 Edna Bricht Aus - Spiritueller Walzer
+11:06 003 Fable - Temple Of Light
+13:45 539 Gothic 4 - Arrival in Feshyr
+
+#843
+0:45 166 Magna Carta 2 - Theme of Zephie (Orgel Version)
+1:48 242 Giants Citizen Kabuto - Les Nuages
+3:37 605 Mafia 2 - Family First
+4:17 540 Kingdom Hearts 2 - Missing You
+6:11 287 Elfen Lied - Rin'ne
+8:00 601 Gothic 4 - Greenlands
+9:58 529 Monkey Island 3 - Blood Island Beach
+13:24 163 Orchestral Game Concert 2 - Sorrow
+
+#844
+2:38 606 Red Dead Redemption - Born Unto Trouble
+5:50 562 Legend of Kyrandia 2 (FM Towns) - Floundering Fishermen
+6:15 568 Legend of Kyrandia (FM Towns) - Brandon's Home
+8:59 512 Day of the Tentacle - Hotel Exteriors Present
+10:23 219 OC ReMix - The Legend of Zelda The Wind Waker Ancient Hero
+14:52 053 Baldur's Gate 2 - The Druid Grove
+
+#845
+0:34 071 Fable 3 - Music Box
+1:14 061 Dragon Age Origins - Humans Nobility
+2:36 453 Das Schwarze Auge Satinavs Ketten - In Die Höhlen
+3:34 291
+9:10 538 Day of the Tentacle - Epilogue
+11:25 056 Magna Carta 2 - Highwind Island
+13:36 601 Gothic 4 - Greenlands
